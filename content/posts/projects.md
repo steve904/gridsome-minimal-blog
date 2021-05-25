@@ -24,7 +24,11 @@ Took a lunch break and went to McDonald's on Pisgah Church Rd. Went to Country P
 
 All moulding pieces are sanded and ready to paint. Time to put on some old paint clothes and go for it. I will use a 3" roller and brush to paint the wood.
 
+## Update #3
+
+Completed painting all of the moulding. I did use a brush and a 3" roller and it worked perfect. It looks like I will not need a second coat of paint. The moulding already had a white coat on it. I will check all the pieces when they are dry.
+
 
 ## Organize Items
 
-Things always need attention for organization. If you have time, organize what you can.
+Organized a few things in the garage. Swept some of the floor in the garage. Rolled old Lane cedar chest out to the garage. It has a lot of stereo wires and computer wires stored in it. I broke one of the little feet on the cedar chest and had to block it with wood to keep it level. 
