@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'The Idea Shack',
-  siteDescription: 'Put your notes & idea here...',
+  siteDescription: 'Put Your Notes & Ideas Here',
   templates: {
     Post: '/blog/:title',
   },
