@@ -4,6 +4,8 @@ description: "test,test, test...is this mic on?"
 date: 2021-05-25
 ---
 
+[Home](/)
+
 ## World Keeps on Spinning
 
 Like a giant magical top, the world keeps on spinning and doing what it does without our help.

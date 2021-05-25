@@ -4,7 +4,11 @@ description: "Projects for Home"
 date: 2021-05-25
 ---
 
+[Home](/)
+
 ## Paint Baseboard Moulding
+
+<!--more-->
 
 Today is a great day for painting the baseboard moulding. I have the moulding removed and ready to paint outside on a couple of saw-horses.
 
@@ -14,7 +18,7 @@ Set up saw-horses and have been scraping old paint edges off with 1" wide wood c
 
 ## Lunch Time
 
-Took a lunch break and went to McDonald's on Pisgah Church Rd. Went to Country Park with Debbi and the kids and we enjoyed eating our lunch by the lake. Very peaceful and nice. 
+Took a lunch break and went to McDonald's on Pisgah Church Rd. Went to Country Park with Debbi and the kids and we enjoyed eating our lunch by the lake. Very peaceful and nice.
 
 ## Update #2
 
